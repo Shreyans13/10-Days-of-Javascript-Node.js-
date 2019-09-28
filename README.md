@@ -3,4 +3,4 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?filters%5Bsta
 
 HackerRank solutions for 10 days of java script
 
-Please Note: the part if the code is fixed in HackerRank. Please see only the answer part and kindly ignore the fixed part
+Please Note: Ignore the fixed part in hackerrank and refer to the solution only.
